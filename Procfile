@@ -1,0 +1,1 @@
+worker: python bad-news.py
